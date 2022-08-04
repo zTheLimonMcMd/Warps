@@ -1,0 +1,12 @@
+0:
+ name: "Exit"
+#0 is set to the exit button of warps
+#You can edit from 1 to a limit of 20 warp
+#Edit like the example below !
+1:
+ x: 0
+ y: 65
+ z: 0
+ world: world
+ name: "Spawn"
+ msg: "Teleport To Spawn"
