@@ -1,0 +1,14 @@
+name: Warps
+api: 4.0.0
+main: zTheLimonMc\Warps\Main
+version: 0.0.1
+author: zTheLimonMc
+
+commands:
+ warp:
+  description: Warps by Limon
+  permission: warp.command
+  
+permissions:
+ warp.command:
+  default: true
